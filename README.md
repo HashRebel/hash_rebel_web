@@ -4,3 +4,9 @@
 
 # Hash Rebel - Decentralize the World
 This web site aims to be the Headquarters of the Decentralized Future
+
+
+
+
+## Developer Notes:
+Branches should start with the ISSUE number so I can quick tab.
